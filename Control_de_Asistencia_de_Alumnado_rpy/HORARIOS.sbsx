@@ -12,7 +12,7 @@
 			<_id type="a">GUID a09b142a-faea-4fb2-8164-fce0f1b7bebf</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">HORARIOS</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:14:7</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::5:12:8</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,8 +22,8 @@
 					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:14:7</_modifiedTime>
-			<_lastID type="a">8</_lastID>
+			<_modifiedTime type="a">1.1.2021::5:12:8</_modifiedTime>
+			<_lastID type="a">9</_lastID>
 			<weakCGTime type="a">1.1.2021::7:58:28</weakCGTime>
 			<strongCGTime type="a">1.1.2021::7:58:28</strongCGTime>
 			<_defaultComposite type="s">GUID 424b9705-efe8-4413-a0b1-b4cd69f349a9</_defaultComposite>
@@ -33,6 +33,7 @@
 				<value>GUID cbac9736-22aa-4759-bf11-eefb8581bad5</value>
 				<value>GUID a17d18e6-d148-496e-ad2d-73586971f187</value>
 				<value>GUID e14abfa0-dffa-462e-bf09-d82c54223796</value>
+				<value>GUID 34f1f273-9e1a-4d45-b9a8-8c4a498af9dc</value>
 				<value>GUID 424b9705-efe8-4413-a0b1-b4cd69f349a9</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -102,6 +103,10 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<ISubsystem type="e">
+			<fileName type="a">RA_RegistrarHorario</fileName>
+			<_id type="a">GUID 34f1f273-9e1a-4d45-b9a8-8c4a498af9dc</_id>
+		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID 424b9705-efe8-4413-a0b1-b4cd69f349a9</_id>
 			<_myState type="a">40960</_myState>
