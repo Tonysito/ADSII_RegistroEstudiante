@@ -12,7 +12,7 @@
 			<_id type="a">GUID b2c0b75f-fc54-4e42-ad43-79559e5e32bb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::6:21:46</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::8:4:9</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,9 +20,9 @@
 					<_hid type="a">GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::7:54:58</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::10:47:46</_modifiedTime>
 			<_lastID type="a">60</_lastID>
-			<weakCGTime type="a">7.28.2021::6:59:58</weakCGTime>
+			<weakCGTime type="a">7.28.2021::8:4:9</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:59:58</strongCGTime>
 			<_defaultComposite type="s">GUID cf893137-9c69-4486-916b-7e1adca94f4c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -6442,7 +6442,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6527,7 +6527,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6554,7 +6554,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6606,7 +6606,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6658,7 +6658,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6710,14 +6710,14 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::7:57:14</_modifiedTime>
-			<_lastID type="a">2</_lastID>
+			<_modifiedTime type="a">7.28.2021::8:34:13</_modifiedTime>
+			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">7.28.2021::7:57:14</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -6730,43 +6730,11 @@
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
-				<value>GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</value>
 				<value>GUID ee165591-ea1d-4fcd-b2f6-066491cb590a</value>
 				<value>GUID 9510a62b-f9fd-4d18-8aeb-ee27105aca17</value>
 				<value>GUID 3c5aa19d-0b49-4bc2-9f56-62d76fbb7886</value>
 			</AggregatesList>
 		</IUseCase>
-		<IDependency type="e">
-			<_id type="a">GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</_id>
-			<_myState type="a">2048</_myState>
-			<_name type="a">Consultar Lista de Asistencia</_name>
-			<Stereotypes type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-							<_hname type="a">include</_hname>
-							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::6:22:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:22:52</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 5ae56f73-2c41-4e31-8e7f-12cf49c324b9</_hid>
-				</INObjectHandle>
-			</_dependsOn>
-			<_dependent type="r">
-				<INObjectHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 810ac758-d882-4bcd-997b-e0a0abf029b8</_hid>
-				</INObjectHandle>
-			</_dependent>
-		</IDependency>
 		<IDependency type="e">
 			<_id type="a">GUID ee165591-ea1d-4fcd-b2f6-066491cb590a</_id>
 			<_myState type="a">2048</_myState>
@@ -6850,7 +6818,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6877,7 +6845,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6904,7 +6872,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -6956,7 +6924,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7008,7 +6976,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7064,7 +7032,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7116,15 +7084,15 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::6:21:46</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::8:34:13</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">7.28.2021::6:21:46</weakCGTime>
+			<weakCGTime type="a">7.28.2021::8:4:9</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -7137,6 +7105,8 @@
 			</_EntryPoints>
 			<AggregatesList type="e">
 				<value>GUID 0762be54-3c64-42d6-8e13-cb02cead401a</value>
+				<value>GUID 1a23c2e4-483c-4831-9045-079252f40b66</value>
+				<value>GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</value>
 				<value>GUID 6d27f452-9e6c-4226-8bc1-0fee5d0975a7</value>
 				<value>GUID 7870595b-5284-4746-9b68-f1c7df64550c</value>
 			</AggregatesList>
@@ -7163,6 +7133,68 @@
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hid type="a">GUID 471adce7-3bac-40a2-9d53-f92d521d1e90</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID ae7d173d-1aab-4bf7-847d-37bb45c71a98</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 1a23c2e4-483c-4831-9045-079252f40b66</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Buscar Horarios</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.28.2021::8:4:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::8:33:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 3bc07ce3-f324-4235-8dd9-39684b6911b4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID ae7d173d-1aab-4bf7-847d-37bb45c71a98</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Consultar Lista de Asistencia</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.28.2021::6:22:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::8:34:13</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 5ae56f73-2c41-4e31-8e7f-12cf49c324b9</_hid>
 				</INObjectHandle>
 			</_dependsOn>
 			<_dependent type="r">
@@ -7224,7 +7256,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7299,7 +7331,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7326,7 +7358,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7378,7 +7410,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7527,7 +7559,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7602,7 +7634,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7655,7 +7687,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7682,7 +7714,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7799,7 +7831,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7847,7 +7879,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7941,7 +7973,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -7989,7 +8021,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -8060,7 +8092,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -8200,7 +8232,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
@@ -8248,7 +8280,7 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">Diagrama de CU organizado segun analisis</_hname>
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>

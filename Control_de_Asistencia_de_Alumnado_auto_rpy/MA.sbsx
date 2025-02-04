@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">AnalysisModel</_hname>
 							<_hid type="a">GUID 7dc8503b-290a-43d7-a3ac-09c8b832eb06</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::6:17:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::8:3:26</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::7:54:58</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::10:47:46</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">7.28.2021::6:17:50</weakCGTime>
+			<weakCGTime type="a">7.28.2021::8:3:26</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:15:39</strongCGTime>
 			<_defaultComposite type="s">GUID a6c2d46f-98ee-46ef-9370-e13cad623a2b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -275,8 +275,8 @@
 			</_properties>
 			<_name type="a">Diagrama de CU organizado segun analisis</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::7:57:43</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::7:57:43</_lastModifiedTime>
+			<_modifiedTime type="a">7.28.2021::10:1:45</_modifiedTime>
+			<_lastModifiedTime type="a">7.28.2021::10:1:45</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -385,7 +385,7 @@
 				<value>GUID 44b994ed-3cb0-4e30-849b-3048b349be08</value>
 				<value>GUID bc761ae9-7ed2-4abf-a270-78aa306fa075</value>
 				<value>GUID 5696e2a5-bb22-4d75-94eb-6dab13bb70ad</value>
-				<value>GUID 49df2187-270e-4937-aa98-a7d49df91043</value>
+				<value>GUID 88893c7a-5d76-457b-8384-02c1240f454d</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -480,7 +480,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Administrador del Sistema</_hclass>
 					<_hname type="a">itsMantener Usuario</_hname>
@@ -535,7 +535,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Usuario</_hclass>
 					<_hname type="a">itsAdministrador del Sistema</_hname>
@@ -688,7 +688,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Usuario</_hclass>
 					<_hname type="a">itsIngresar al Sistema</_hname>
@@ -743,7 +743,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Ingresar al Sistema</_hclass>
 					<_hname type="a">itsUsuario</_hname>
@@ -867,7 +867,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Usuario</_hclass>
 					<_hname type="a">itsModificar Contrase%F1a</_hname>
@@ -922,7 +922,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Modificar Contrase%F1a</_hclass>
 					<_hname type="a">itsUsuario</_hname>
@@ -1075,7 +1075,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
 					<_hname type="a">itsGenerar Reporte de Asistencias seg%FAn lista</_hname>
@@ -1130,7 +1130,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Reporte de Asistencias seg%FAn lista</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
@@ -1254,7 +1254,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Personal Administrativo</_hclass>
 					<_hname type="a">itsMantener Curso</_hname>
@@ -1309,7 +1309,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Curso</_hclass>
 					<_hname type="a">itsPersonal Administrativo</_hname>
@@ -1433,7 +1433,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Personal Administrativo</_hclass>
 					<_hname type="a">itsMantener Estudiante</_hname>
@@ -1488,7 +1488,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Estudiante</_hclass>
 					<_hname type="a">itsPersonal Administrativo</_hname>
@@ -1612,7 +1612,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Personal Administrativo</_hclass>
 					<_hname type="a">itsMantener Docente</_hname>
@@ -1667,7 +1667,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Docente</_hclass>
 					<_hname type="a">itsPersonal Administrativo</_hname>
@@ -1791,7 +1791,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Personal Administrativo</_hclass>
 					<_hname type="a">itsMantener Secci%F3n</_hname>
@@ -1846,7 +1846,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Secci%F3n</_hclass>
 					<_hname type="a">itsPersonal Administrativo</_hname>
@@ -1970,7 +1970,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
 					<_hname type="a">itsGenerar Reporte de Asistencias de Estudiante</_hname>
@@ -2025,7 +2025,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
@@ -2149,7 +2149,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
 					<_hname type="a">itsGenerar Reporte de Tutores</_hname>
@@ -2204,7 +2204,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Reporte de Tutores</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
@@ -2328,7 +2328,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Docente</_hclass>
 					<_hname type="a">itsMantener Lista de Asistencia</_hname>
@@ -2383,7 +2383,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Mantener Lista de Asistencia</_hclass>
 					<_hname type="a">itsDocente</_hname>
@@ -2570,7 +2570,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Buscar Estudiante</_hname>
 					<_hid type="a">GUID d0333070-d395-499d-b517-70e15f371e4f</_hid>
@@ -2595,7 +2595,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.190434 0 0 0.0840336 674.381 569.084 </m_transform>
+			<m_transform type="a">0.190434 0 0 0.0840336 342.381 564.084 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2682,7 +2682,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Usuario</_hname>
 					<_hid type="a">GUID 409f0a0d-aabd-4bb8-bebd-6e2d88f60e8e</_hid>
@@ -2770,7 +2770,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Docente</_hname>
 					<_hid type="a">GUID bffe3dce-779f-475c-9428-b14b4dcd1ee2</_hid>
@@ -2858,7 +2858,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Coordinador Academico</_hname>
 					<_hid type="a">GUID d0698e15-5ec8-44a7-bd3e-7a08bfc07ee1</_hid>
@@ -2946,7 +2946,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Administrador del Sistema</_hname>
 					<_hid type="a">GUID 436c6559-4f07-47af-8bf6-4a440a7d4cfb</_hid>
@@ -3034,7 +3034,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Usuario</_hname>
 					<_hid type="a">GUID 13389809-3dce-4267-aede-e60c9efdb98e</_hid>
@@ -3059,7 +3059,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 1264.39 568.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 1505.39 658.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3122,7 +3122,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Personal Administrativo</_hname>
 					<_hid type="a">GUID 1a9edc02-3701-4a7e-8ca1-e915dc0f5f67</_hid>
@@ -3234,7 +3234,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Ingresar al Sistema</_hname>
 					<_hid type="a">GUID b30e9d70-f0b2-4f14-8cef-6f3ddcc8f6c0</_hid>
@@ -3259,7 +3259,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.203721 0 0 0.0971054 951.411 506.098 </m_transform>
+			<m_transform type="a">0.203721 0 0 0.0971054 1039.41 525.098 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3346,7 +3346,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Modificar Contrase%F1a</_hname>
 					<_hid type="a">GUID 92ad51f2-3786-4771-ad07-f2fe68846fe6</_hid>
@@ -3371,7 +3371,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.224979 0 0 0.0971054 939.454 664.098 </m_transform>
+			<m_transform type="a">0.224979 0 0 0.0971054 1027.45 711.098 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3462,7 +3462,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Generar Reporte de Asistencias seg%FAn lista</_hname>
 					<_hid type="a">GUID 810ac758-d882-4bcd-997b-e0a0abf029b8</_hid>
@@ -3487,7 +3487,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.317982 0 0 0.0971056 132.636 693.096 </m_transform>
+			<m_transform type="a">0.317982 0 0 0.0971056 51.6359 711.096 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3578,7 +3578,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Buscar Docente</_hname>
 					<_hid type="a">GUID 1eaa4b77-12b7-40d0-8931-8dbeee7f7bc4</_hid>
@@ -3694,7 +3694,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Buscar Curso</_hname>
 					<_hid type="a">GUID 1f40c929-ea63-474e-94a5-c70b52ee0658</_hid>
@@ -3788,7 +3788,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Curso</_hname>
 					<_hid type="a">GUID fa08e0ab-3df2-4edb-9e38-3fffe70b6f37</_hid>
@@ -3882,7 +3882,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Estudiante</_hname>
 					<_hid type="a">GUID 4fa51b77-04f3-433f-b837-62f6bd676fcd</_hid>
@@ -3976,7 +3976,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Docente</_hname>
 					<_hid type="a">GUID 6cddf371-c9d7-4e43-819a-192b994a9f60</_hid>
@@ -4070,7 +4070,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Secci%F3n</_hname>
 					<_hid type="a">GUID d9dcbc9f-53a5-45af-877c-7ac2caeeb5c2</_hid>
@@ -4164,7 +4164,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Generar Reporte de Asistencias de Estudiante</_hname>
 					<_hid type="a">GUID ae7d173d-1aab-4bf7-847d-37bb45c71a98</_hid>
@@ -4189,7 +4189,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.279895 0 0 0.0812326 215.56 873.08 </m_transform>
+			<m_transform type="a">0.279895 0 0 0.0812326 187.56 870.08 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4258,7 +4258,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Generar Reporte de Tutores</_hname>
 					<_hid type="a">GUID 291743a8-8374-48e5-b675-7d058ae1bd1d</_hid>
@@ -4352,7 +4352,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Buscar Secci%F3n</_hname>
 					<_hid type="a">GUID 9a2cc731-c36f-4b9e-90e4-5ac883d6763f</_hid>
@@ -4446,7 +4446,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Consultar Lista de Asistencia</_hname>
 					<_hid type="a">GUID 5ae56f73-2c41-4e31-8e7f-12cf49c324b9</_hid>
@@ -4471,7 +4471,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.19132 0 0 0.116713 674.383 683.118 </m_transform>
+			<m_transform type="a">0.19132 0 0 0.116713 503.383 654.118 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4540,7 +4540,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Consultar Estudiante</_hname>
 					<_hid type="a">GUID 471adce7-3bac-40a2-9d53-f92d521d1e90</_hid>
@@ -4565,7 +4565,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.19132 0 0 0.0971054 657.382 877.098 </m_transform>
+			<m_transform type="a">0.19132 0 0 0.0971054 645.382 896.098 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4634,7 +4634,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Mantener Lista de Asistencia</_hname>
 					<_hid type="a">GUID a3c00b57-c9b4-41e5-a65c-a74c4e634a4d</_hid>
@@ -4728,7 +4728,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Generar Lista de Asistencia</_hname>
 					<_hid type="a">GUID 4bf34714-3fde-45fb-ad29-982d442897b9</_hid>
@@ -4753,7 +4753,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.20372 0 0 0.0812325 138.407 278.081 </m_transform>
+			<m_transform type="a">0.20372 0 0 0.0812325 273.407 255.081 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4822,7 +4822,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Registrar Horarios</_hname>
 					<_hid type="a">GUID 600342e2-ebd2-407f-ac70-23ed4e812af2</_hid>
@@ -4875,7 +4875,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Personal Administrativo</_hclass>
 					<_hname type="a">itsRegistrar Horarios</_hname>
@@ -4930,7 +4930,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Horarios</_hclass>
 					<_hname type="a">itsPersonal Administrativo</_hname>
@@ -5056,7 +5056,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Horarios</_hclass>
 					<_hname type="a">Buscar Docente</_hname>
@@ -5118,7 +5118,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Horarios</_hclass>
 					<_hname type="a">Buscar Curso</_hname>
@@ -5180,7 +5180,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Horarios</_hclass>
 					<_hname type="a">Buscar Secci%F3n</_hname>
@@ -5271,7 +5271,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Sistema</_hname>
 					<_hid type="a">GUID 3ac1fe32-2c16-4d30-a5b4-301ec7952ba4</_hid>
@@ -5324,7 +5324,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Lista de Asistencia</_hclass>
 					<_hname type="a">itsSistema</_hname>
@@ -5379,7 +5379,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Sistema</_hclass>
 					<_hname type="a">itsGenerar Lista de Asistencia</_hname>
@@ -5546,7 +5546,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Buscar Horarios</_hname>
 					<_hid type="a">GUID 3bc07ce3-f324-4235-8dd9-39684b6911b4</_hid>
@@ -5571,7 +5571,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.204607 0 0 0.0812324 501.409 420.082 </m_transform>
+			<m_transform type="a">0.204607 0 0 0.0812324 826.409 654.082 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5599,7 +5599,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Lista de Asistencia</_hclass>
 					<_hname type="a">Buscar Horarios</_hname>
@@ -5690,7 +5690,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Secretaria Academica</_hname>
 					<_hid type="a">GUID b94be6de-c4f9-42a4-ac3c-f454dfe9f2b0</_hid>
@@ -5790,7 +5790,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Registrar Matricula</_hname>
 					<_hid type="a">GUID f21acee8-fd22-4b7a-b9d1-73bc778851b8</_hid>
@@ -5815,7 +5815,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.202835 0 0 0.0971055 182.406 460.098 </m_transform>
+			<m_transform type="a">0.202835 0 0 0.0971055 138.406 429.098 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5843,7 +5843,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Secretaria Academica</_hclass>
 					<_hname type="a">itsRegistrar Matricula</_hname>
@@ -5894,11 +5894,11 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">560 534 </m_TargetPort>
+			<m_TargetPort type="a">13 658 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Matricula</_hclass>
 					<_hname type="a">itsSecretaria Academica</_hname>
@@ -6024,7 +6024,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Matricula</_hclass>
 					<_hname type="a">Buscar Horarios</_hname>
@@ -6075,7 +6075,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">876 71 </m_SourcePort>
+			<m_SourcePort type="a">1019 205 </m_SourcePort>
 			<m_TargetPort type="a">110 922 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
@@ -6086,7 +6086,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Registrar Matricula</_hclass>
 					<_hname type="a">Buscar Estudiante</_hname>
@@ -6248,7 +6248,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
 					<_hname type="a">Consultar Estudiante</_hname>
@@ -6311,9 +6311,9 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias seg%FAn lista</_hclass>
+					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
 					<_hname type="a">Consultar Lista de Asistencia</_hname>
 					<_hid type="a">GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</_hid>
 				</IHandle>
@@ -6338,7 +6338,7 @@
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 18e7bafe-935b-491c-9b63-366a36583c7b</m_pSource>
+			<m_pSource type="s">GUID 2ee7a504-6d55-422c-860e-504a41fc8384</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
 			<m_pTarget type="s">GUID dd036ea7-bd2e-4a19-a3c3-08f056ef65d4</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
@@ -6363,28 +6363,28 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">561 535 </m_SourcePort>
-			<m_TargetPort type="a">3 427 </m_TargetPort>
+			<m_SourcePort type="a">895 97 </m_SourcePort>
+			<m_TargetPort type="a">207 950 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
 		<CGIInheritance type="e">
-			<_id type="a">GUID 49df2187-270e-4937-aa98-a7d49df91043</_id>
+			<_id type="a">GUID 88893c7a-5d76-457b-8384-02c1240f454d</_id>
 			<m_type type="a">128</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias seg%FAn lista</_hclass>
-					<_hname type="a">Consultar Estudiante</_hname>
-					<_hid type="a">GUID ee165591-ea1d-4fcd-b2f6-066491cb590a</_hid>
+					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
+					<_hname type="a">Buscar Horarios</_hname>
+					<_hid type="a">GUID 1a23c2e4-483c-4831-9045-079252f40b66</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Consultar Estudiante</m_str>
+					<m_str type="a">Buscar Horarios</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6401,9 +6401,9 @@
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 18e7bafe-935b-491c-9b63-366a36583c7b</m_pSource>
+			<m_pSource type="s">GUID 2ee7a504-6d55-422c-860e-504a41fc8384</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 220f2d77-38a8-41bb-bde2-b290a484c914</m_pTarget>
+			<m_pTarget type="s">GUID 01ec4c31-f58e-42f0-915a-bc0a4d8aedb7</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -6426,8 +6426,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">561 535 </m_SourcePort>
-			<m_TargetPort type="a">228 102 </m_TargetPort>
+			<m_SourcePort type="a">1020 221 </m_SourcePort>
+			<m_TargetPort type="a">448 1058 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -6926,7 +6926,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\SECCION.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\SECCION.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">SECCION</_hname>
 					<_hid type="a">GUID 5e2a3a2b-5594-48ca-aafc-4edcb6434127</_hid>
@@ -7014,7 +7014,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\DOCENTE.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\DOCENTE.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">DOCENTE</_hname>
 					<_hid type="a">GUID f526b6c1-b5fd-4ec5-b9b1-4bdac0889848</_hid>
@@ -7102,7 +7102,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\ESTUDIANTE.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\ESTUDIANTE.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">ESTUDIANTE</_hname>
 					<_hid type="a">GUID 92651566-4cdf-4f0d-b053-f5b9d927f46e</_hid>
@@ -7190,7 +7190,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\CURSO.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\CURSO.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">CURSO</_hname>
 					<_hid type="a">GUID c90d27e9-bdb6-4e5a-869f-fb918b5650c6</_hid>
@@ -7278,7 +7278,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\HORARIOS.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\HORARIOS.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">HORARIOS</_hname>
 					<_hid type="a">GUID a09b142a-faea-4fb2-8164-fce0f1b7bebf</_hid>
@@ -7366,7 +7366,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\ASISTENCIA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\ASISTENCIA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">ASISTENCIA</_hname>
 					<_hid type="a">GUID ed179665-db81-4aad-8e3e-2e29629cd68c</_hid>
@@ -7454,7 +7454,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\REPORTES.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\REPORTES.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">REPORTES</_hname>
 					<_hid type="a">GUID 3feaf237-0277-4658-8eb6-b4a793ad1ff2</_hid>
@@ -7542,7 +7542,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\SEGURIDAD.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\SEGURIDAD.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
 					<_hname type="a">SEGURIDAD</_hname>
 					<_hid type="a">GUID 01f07fb0-1c3a-4352-9efb-9fed082ed3f2</_hid>
@@ -7595,7 +7595,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\HORARIOS.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\HORARIOS.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::HORARIOS</_hsubsystem>
 					<_hname type="a">SECCION</_hname>
 					<_hid type="a">GUID cbac9736-22aa-4759-bf11-eefb8581bad5</_hid>
@@ -7656,7 +7656,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\HORARIOS.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\HORARIOS.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::HORARIOS</_hsubsystem>
 					<_hname type="a">DOCENTE</_hname>
 					<_hid type="a">GUID a17d18e6-d148-496e-ad2d-73586971f187</_hid>
@@ -7717,7 +7717,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\HORARIOS.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\HORARIOS.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::HORARIOS</_hsubsystem>
 					<_hname type="a">CURSO</_hname>
 					<_hid type="a">GUID e14abfa0-dffa-462e-bf09-d82c54223796</_hid>
@@ -7813,7 +7813,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\MATRICULA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MATRICULA.sbsx</_hfilename>
 					<_hname type="a">MATRICULA</_hname>
 					<_hid type="a">GUID b613521b-931c-410f-9856-1d70e2b5629d</_hid>
 				</IHandle>
@@ -7865,7 +7865,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MATRICULA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MATRICULA.sbsx</_hfilename>
 					<_hsubsystem type="a">MATRICULA</_hsubsystem>
 					<_hname type="a">ESTUDIANTE</_hname>
 					<_hid type="a">GUID 2ae72721-8322-433d-93ce-4a6cafd8ac37</_hid>
@@ -7926,7 +7926,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\ASISTENCIA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\ASISTENCIA.sbsx</_hfilename>
 					<_hsubsystem type="a">MA::ASISTENCIA</_hsubsystem>
 					<_hname type="a">HORARIOS</_hname>
 					<_hid type="a">GUID b339f119-1572-44a3-bd0c-c3844e72600c</_hid>
@@ -7987,7 +7987,7 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hfilename type="a">.\MATRICULA.sbsx</_hfilename>
+					<_hfilename type="a">.\..\Control_de_Asistencia_de_Alumnado_rpy\MATRICULA.sbsx</_hfilename>
 					<_hsubsystem type="a">MATRICULA</_hsubsystem>
 					<_hname type="a">HORARIOS</_hname>
 					<_hid type="a">GUID 44d2cc68-32e8-4272-8ad2-b2a39c7705ef</_hid>
