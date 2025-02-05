@@ -12,7 +12,7 @@
 			<_id type="a">GUID 3feaf237-0277-4658-8eb6-b4a793ad1ff2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">REPORTES</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::6:36:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::6:5:18</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,24 +22,71 @@
 					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::6:36:49</_modifiedTime>
-			<weakCGTime type="a">1.1.2021::6:36:49</weakCGTime>
+			<_modifiedTime type="a">1.1.2021::6:5:18</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">1.1.2021::6:5:18</weakCGTime>
 			<strongCGTime type="a">1.1.2021::6:36:49</strongCGTime>
 			<_defaultComposite type="s">GUID ed79f56e-6841-4277-89ff-f1a830db235b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID e04865a4-7c74-4c0a-a3a9-55625528c623</value>
+				<value>GUID 84e17ea1-48e9-4b50-b412-f4a13fd12a5f</value>
 				<value>GUID ed79f56e-6841-4277-89ff-f1a830db235b</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID e04865a4-7c74-4c0a-a3a9-55625528c623</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CURSO</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::6:5:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::6:5:8</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\CURSO.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">CURSO</_hname>
+					<_hid type="a">GUID c90d27e9-bdb6-4e5a-869f-fb918b5650c6</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 3feaf237-0277-4658-8eb6-b4a793ad1ff2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 84e17ea1-48e9-4b50-b412-f4a13fd12a5f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">ESTUDIANTE</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::6:5:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::6:5:18</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\ESTUDIANTE.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">ESTUDIANTE</_hname>
+					<_hid type="a">GUID 92651566-4cdf-4f0d-b053-f5b9d927f46e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 3feaf237-0277-4658-8eb6-b4a793ad1ff2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IClass type="e">
 			<_id type="a">GUID ed79f56e-6841-4277-89ff-f1a830db235b</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_modifiedTimeWeak type="a">1.1.2021::6:5:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.1.2021::6:5:3</weakCGTime>
+			<strongCGTime type="a">1.1.2021::6:5:3</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>

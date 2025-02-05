@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::11:8:22</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::6:4:37</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::11:8:22</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::6:4:37</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">7.28.2021::11:8:22</weakCGTime>
+			<weakCGTime type="a">7.28.2021::6:15:39</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:15:39</strongCGTime>
 			<_defaultComposite type="s">GUID a6c2d46f-98ee-46ef-9370-e13cad623a2b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -273,8 +273,8 @@
 			</_properties>
 			<_name type="a">Diagrama de CU organizado segun analisis</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::11:8:26</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::11:8:26</_lastModifiedTime>
+			<_modifiedTime type="a">1.1.2021::5:57:51</_modifiedTime>
+			<_lastModifiedTime type="a">1.1.2021::5:57:51</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -317,7 +317,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">52</elementList>
+			<elementList type="a">50</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -361,8 +361,6 @@
 				<value>GUID 2ee7a504-6d55-422c-860e-504a41fc8384</value>
 				<value>GUID 98d53024-65c2-4d00-9d9b-75b4426dd7b1</value>
 				<value>GUID a092c9ef-00c2-43bb-8163-827b1290375a</value>
-				<value>GUID dd036ea7-bd2e-4a19-a3c3-08f056ef65d4</value>
-				<value>GUID 220f2d77-38a8-41bb-bde2-b290a484c914</value>
 				<value>GUID 1be57d58-3250-4e62-9c07-f74feb87b387</value>
 				<value>GUID bf142477-2fe0-41f4-9b39-5c6cc424e555</value>
 				<value>GUID 3bb357e9-d9a0-4ec3-ab65-13ef799fcc0f</value>
@@ -379,9 +377,9 @@
 				<value>GUID 5239bc7f-b677-49a1-9042-d3db90bce1bd</value>
 				<value>GUID 34673d1e-d6f5-4e2f-9f48-fa744ac71e2e</value>
 				<value>GUID 5e614445-a7d4-4639-bb03-9b9ebba418e1</value>
-				<value>GUID bc761ae9-7ed2-4abf-a270-78aa306fa075</value>
-				<value>GUID 5696e2a5-bb22-4d75-94eb-6dab13bb70ad</value>
-				<value>GUID 88893c7a-5d76-457b-8384-02c1240f454d</value>
+				<value>GUID f3a6dc25-fcec-45a9-99e0-8038ef1b6423</value>
+				<value>GUID 598ff49f-fe14-4445-8979-4e3481fa5cb1</value>
+				<value>GUID 919b342e-0c33-4216-9de9-cac3ef805ff0</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -526,8 +524,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">1089 296 </m_TargetPort>
+			<m_SourcePort type="a">176 903 </m_SourcePort>
+			<m_TargetPort type="a">1113 418 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -735,7 +733,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">1127 576 </m_TargetPort>
+			<m_TargetPort type="a">1092 709 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -914,7 +912,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">1016 205 </m_TargetPort>
+			<m_TargetPort type="a">1121 454 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -1074,7 +1072,7 @@
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
-					<_hname type="a">itsGenerar Reporte de Asistencias seg%FAn lista</_hname>
+					<_hname type="a">itsGenerar Reporte de Asistencias de Estudiante</_hname>
 					<_hid type="a">GUID f979e524-133c-4d4f-be1c-ae9834efc245</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -1122,13 +1120,13 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">140 174 </m_TargetPort>
+			<m_TargetPort type="a">-2 545 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias seg%FAn lista</_hclass>
+					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
 					<_hid type="a">GUID 9510a62b-f9fd-4d18-8aeb-ee27105aca17</_hid>
 				</IAssociationEndHandle>
@@ -1480,7 +1478,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">242 987 </m_TargetPort>
+			<m_TargetPort type="a">110 842 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -1659,7 +1657,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">3 601 </m_TargetPort>
+			<m_TargetPort type="a">5 601 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -1838,7 +1836,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">245 70 </m_TargetPort>
+			<m_TargetPort type="a">70 253 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -1969,7 +1967,7 @@
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
-					<_hname type="a">itsGenerar Reporte de Asistencias de Estudiante</_hname>
+					<_hname type="a">itsGenerar Reporte de Cursos</_hname>
 					<_hid type="a">GUID f443e8c2-4038-43aa-9b24-19858fe8c172</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -2017,13 +2015,13 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">-2 553 </m_TargetPort>
+			<m_TargetPort type="a">64 294 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
+					<_hclass type="a">Generar Reporte de Cursos</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
 					<_hid type="a">GUID 6d27f452-9e6c-4226-8bc1-0fee5d0975a7</_hid>
 				</IAssociationEndHandle>
@@ -2148,7 +2146,7 @@
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Coordinador Academico</_hclass>
-					<_hname type="a">itsGenerar Reporte de Tutores</_hname>
+					<_hname type="a">itsGenerar Reporte de Padres o Tutores</_hname>
 					<_hid type="a">GUID ff8661ad-079e-448a-b714-e16e3ac61f3e</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -2195,14 +2193,14 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1014 1048 </m_SourcePort>
-			<m_TargetPort type="a">562 534 </m_TargetPort>
+			<m_SourcePort type="a">1198 501 </m_SourcePort>
+			<m_TargetPort type="a">560 528 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Tutores</_hclass>
+					<_hclass type="a">Generar Reporte de Padres o Tutores</_hclass>
 					<_hname type="a">itsCoordinador Academico</_hname>
 					<_hid type="a">GUID dae5dedb-aac5-4125-911e-fb231e5dabc8</_hid>
 				</IAssociationEndHandle>
@@ -2375,7 +2373,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">-2 462 </m_TargetPort>
+			<m_TargetPort type="a">-2 467 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -2524,7 +2522,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -2591,7 +2589,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.190434 0 0 0.0840336 342.381 564.084 </m_transform>
+			<m_transform type="a">0.140833 0 0 0.0746965 502.282 703.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2703,7 +2701,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.131976 0 0 0.0606909 908.27 873.061 </m_transform>
+			<m_transform type="a">0.140833 0 0 0.0644257 1136.29 956.065 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2746,7 +2744,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -2791,7 +2789,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 41.3869 -5.3345 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 77.3869 22.6655 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2834,7 +2832,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -2879,7 +2877,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 70.3869 813.666 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 70.3869 878.666 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2922,7 +2920,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -2967,7 +2965,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 1119.39 783.666 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 1350.39 870.666 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3010,7 +3008,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3092,13 +3090,13 @@
 											<IRPYRawContainer type="e">
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3143,7 +3141,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 1084.39 195.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 1090.39 232.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3255,7 +3253,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.203721 0 0 0.0971054 1039.41 525.098 </m_transform>
+			<m_transform type="a">0.173606 0 0 0.0746965 1183.35 654.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3367,7 +3365,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.224979 0 0 0.0971054 1027.45 711.098 </m_transform>
+			<m_transform type="a">0.168291 0 0 0.0812324 1186.34 783.082 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3416,7 +3414,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3460,14 +3458,14 @@
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hname type="a">Generar Reporte de Asistencias seg%FAn lista</_hname>
+					<_hname type="a">Generar Reporte de Asistencias de Estudiante</_hname>
 					<_hid type="a">GUID 810ac758-d882-4bcd-997b-e0a0abf029b8</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 155e1eef-92e4-4117-915d-0e70f75a4cee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">MCU::Generar Reporte de Asistencias seg%FAn lista</m_str>
+					<m_str type="a">MCU::Generar Reporte de Asistencias de Estudiante</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3483,7 +3481,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.317982 0 0 0.0971056 132.636 1128.1 </m_transform>
+			<m_transform type="a">0.181577 0 0 0.0971056 265.363 902.1 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3532,7 +3530,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3599,7 +3597,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.148805 0 0 0.0644257 576.298 20.0651 </m_transform>
+			<m_transform type="a">0.136405 0 0 0.0746965 621.273 198.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3648,7 +3646,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3715,7 +3713,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.147034 0 0 0.0746965 576.295 168.075 </m_transform>
+			<m_transform type="a">0.135519 0 0 0.0644257 821.272 703.065 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3764,7 +3762,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3809,7 +3807,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.193092 0 0 0.0840336 1341.39 227.084 </m_transform>
+			<m_transform type="a">0.154119 0 0 0.0746965 1376.31 358.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3858,7 +3856,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3903,7 +3901,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.184235 0 0 0.0840336 1239.37 26.0845 </m_transform>
+			<m_transform type="a">0.142605 0 0 0.0746965 1326.29 132.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3952,7 +3950,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -3997,7 +3995,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.213464 0 0 0.0746965 1288.43 135.075 </m_transform>
+			<m_transform type="a">0.150576 0 0 0.0746965 1379.3 243.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4046,7 +4044,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4091,7 +4089,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.190435 0 0 0.0840336 1370.38 329.084 </m_transform>
+			<m_transform type="a">0.139062 0 0 0.0746965 1354.28 477.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4140,7 +4138,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4162,14 +4160,14 @@
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hname type="a">Generar Reporte de Asistencias de Estudiante</_hname>
+					<_hname type="a">Generar Reporte de Cursos</_hname>
 					<_hid type="a">GUID ae7d173d-1aab-4bf7-847d-37bb45c71a98</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 155e1eef-92e4-4117-915d-0e70f75a4cee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">MCU::Generar Reporte de Asistencias de Estudiante</m_str>
+					<m_str type="a">MCU::Generar Reporte de Cursos</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4185,7 +4183,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.279895 0 0 0.0812326 187.56 870.08 </m_transform>
+			<m_transform type="a">0.167406 0 0 0.0812326 273.335 1052.08 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4234,7 +4232,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4256,14 +4254,14 @@
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hname type="a">Generar Reporte de Tutores</_hname>
+					<_hname type="a">Generar Reporte de Padres o Tutores</_hname>
 					<_hid type="a">GUID 291743a8-8374-48e5-b675-7d058ae1bd1d</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 155e1eef-92e4-4117-915d-0e70f75a4cee</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">MCU::Generar Reporte de Tutores</m_str>
+					<m_str type="a">MCU::Generar Reporte de Padres o Tutores</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4279,7 +4277,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.253322 0 0 0.0971054 273.507 987.098 </m_transform>
+			<m_transform type="a">0.167405 0 0 0.0812324 273.335 745.082 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4328,7 +4326,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4373,195 +4371,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.163862 0 0 0.0746965 557.328 308.075 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID dd036ea7-bd2e-4a19-a3c3-08f056ef65d4</_id>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">Format</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">UseCase</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">192,192,0</_Value>
-													<_Type type="a">Color</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Fill.Transparent_Fill</_Name>
-													<_Value type="a">0</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hname type="a">Consultar Lista de Asistencia</_hname>
-					<_hid type="a">GUID 5ae56f73-2c41-4e31-8e7f-12cf49c324b9</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID 155e1eef-92e4-4117-915d-0e70f75a4cee</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">MCU::Consultar Lista de Asistencia</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.19132 0 0 0.116713 503.383 690.118 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID 220f2d77-38a8-41bb-bde2-b290a484c914</_id>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">Format</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">UseCase</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">0,255,0</_Value>
-													<_Type type="a">Color</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Fill.Transparent_Fill</_Name>
-													<_Value type="a">0</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\MCU.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hname type="a">Consultar Estudiante</_hname>
-					<_hid type="a">GUID 471adce7-3bac-40a2-9d53-f92d521d1e90</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID 155e1eef-92e4-4117-915d-0e70f75a4cee</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">MCU::Consultar Estudiante</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.19132 0 0 0.0971054 645.382 896.098 </m_transform>
+			<m_transform type="a">0.13729 0 0 0.0644257 620.275 351.065 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4610,7 +4420,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4655,7 +4465,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.224979 0 0 0.116713 246.45 72.1159 </m_transform>
+			<m_transform type="a">0.16032 0 0 0.0812322 277.321 89.0807 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4704,7 +4514,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4749,7 +4559,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.20372 0 0 0.0812325 273.407 255.081 </m_transform>
+			<m_transform type="a">0.157662 0 0 0.0746966 273.315 310.074 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4798,7 +4608,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -4843,7 +4653,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.181577 0 0 0.0746965 834.363 198.075 </m_transform>
+			<m_transform type="a">0.181577 0 0 0.0746965 840.363 294.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5103,8 +4913,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">114 186 </m_SourcePort>
-			<m_TargetPort type="a">1019 868 </m_TargetPort>
+			<m_SourcePort type="a">59 294 </m_SourcePort>
+			<m_TargetPort type="a">1017 869 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -5165,8 +4975,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">-2 588 </m_SourcePort>
-			<m_TargetPort type="a">1120 427 </m_TargetPort>
+			<m_SourcePort type="a">560 534 </m_SourcePort>
+			<m_TargetPort type="a">677 15 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -5227,8 +5037,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">196 936 </m_SourcePort>
-			<m_TargetPort type="a">797 39 </m_TargetPort>
+			<m_SourcePort type="a">64 775 </m_SourcePort>
+			<m_TargetPort type="a">1127 496 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -5248,6 +5058,12 @@
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size@Label.Name</_Name>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -5292,7 +5108,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 33.3869 208.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 70.3869 246.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5370,7 +5186,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">563 528 </m_SourcePort>
+			<m_SourcePort type="a">563 535 </m_SourcePort>
 			<m_TargetPort type="a">707 823 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
@@ -5522,7 +5338,7 @@
 												
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">10</_Value>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -5567,7 +5383,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.204607 0 0 0.0812324 826.409 654.082 </m_transform>
+			<m_transform type="a">0.141719 0 0 0.0746965 451.283 449.075 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5646,8 +5462,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">563 528 </m_SourcePort>
-			<m_TargetPort type="a">154 159 </m_TargetPort>
+			<m_SourcePort type="a">563 535 </m_SourcePort>
+			<m_TargetPort type="a">118 173 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -5667,6 +5483,12 @@
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size@Label.Name</_Name>
+													<_Value type="a">11</_Value>
 													<_Type type="a">Int</_Type>
 												</IProperty>
 												
@@ -5711,7 +5533,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0489381 0 0 0.124343 42.3869 436.665 </m_transform>
+			<m_transform type="a">0.0489381 0 0 0.124343 70.3869 497.665 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5811,7 +5633,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.202835 0 0 0.0971055 138.406 429.098 </m_transform>
+			<m_transform type="a">0.158548 0 0 0.0812325 234.317 557.082 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5890,7 +5712,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">13 658 </m_TargetPort>
+			<m_TargetPort type="a">-2 615 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -6071,8 +5893,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1019 205 </m_SourcePort>
-			<m_TargetPort type="a">110 922 </m_TargetPort>
+			<m_SourcePort type="a">1020 208 </m_SourcePort>
+			<m_TargetPort type="a">111 856 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -6133,28 +5955,28 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">876 988 </m_SourcePort>
-			<m_TargetPort type="a">14 392 </m_TargetPort>
+			<m_SourcePort type="a">894 972 </m_SourcePort>
+			<m_TargetPort type="a">119 200 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
 		<CGIInheritance type="e">
-			<_id type="a">GUID bc761ae9-7ed2-4abf-a270-78aa306fa075</_id>
+			<_id type="a">GUID f3a6dc25-fcec-45a9-99e0-8038ef1b6423</_id>
 			<m_type type="a">128</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
-					<_hname type="a">Consultar Estudiante</_hname>
-					<_hid type="a">GUID 0762be54-3c64-42d6-8e13-cb02cead401a</_hid>
+					<_hclass type="a">Generar Reporte de Padres o Tutores</_hclass>
+					<_hname type="a">Buscar Estudiante</_hname>
+					<_hid type="a">GUID 16645ad2-3b2f-42d6-a19a-4ff175672870</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Consultar Estudiante</m_str>
+					<m_str type="a">Buscar Estudiante</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6171,9 +5993,9 @@
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 2ee7a504-6d55-422c-860e-504a41fc8384</m_pSource>
+			<m_pSource type="s">GUID 98d53024-65c2-4d00-9d9b-75b4426dd7b1</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 220f2d77-38a8-41bb-bde2-b290a484c914</m_pTarget>
+			<m_pTarget type="s">GUID a14a12cb-50e0-441c-9e19-a02dba2e206c</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -6196,13 +6018,13 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">562 528 </m_SourcePort>
-			<m_TargetPort type="a">8 411 </m_TargetPort>
+			<m_SourcePort type="a">1085 331 </m_SourcePort>
+			<m_TargetPort type="a">5 615 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
 		<CGIInheritance type="e">
-			<_id type="a">GUID 5696e2a5-bb22-4d75-94eb-6dab13bb70ad</_id>
+			<_id type="a">GUID 598ff49f-fe14-4445-8979-4e3481fa5cb1</_id>
 			<m_type type="a">128</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -6210,14 +6032,14 @@
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
-					<_hname type="a">Consultar Lista de Asistencia</_hname>
-					<_hid type="a">GUID 9acdf9de-8e1d-4fe2-b64c-d8bdbaaaa80c</_hid>
+					<_hname type="a">Buscar Estudiante</_hname>
+					<_hid type="a">GUID 358b9269-1893-4224-b625-82f6513f4eac</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Consultar Lista de Asistencia</m_str>
+					<m_str type="a">Buscar Estudiante</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6234,9 +6056,9 @@
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 2ee7a504-6d55-422c-860e-504a41fc8384</m_pSource>
+			<m_pSource type="s">GUID 18e7bafe-935b-491c-9b63-366a36583c7b</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID dd036ea7-bd2e-4a19-a3c3-08f056ef65d4</m_pTarget>
+			<m_pTarget type="s">GUID a14a12cb-50e0-441c-9e19-a02dba2e206c</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -6259,28 +6081,28 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">895 97 </m_SourcePort>
-			<m_TargetPort type="a">207 950 </m_TargetPort>
+			<m_SourcePort type="a">1033 236 </m_SourcePort>
+			<m_TargetPort type="a">367 1030 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
 		<CGIInheritance type="e">
-			<_id type="a">GUID 88893c7a-5d76-457b-8384-02c1240f454d</_id>
+			<_id type="a">GUID 919b342e-0c33-4216-9de9-cac3ef805ff0</_id>
 			<m_type type="a">128</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDependency</_hm2Class>
 					<_hfilename type="a">.\MCU.sbsx</_hfilename>
 					<_hsubsystem type="a">MCU</_hsubsystem>
-					<_hclass type="a">Generar Reporte de Asistencias de Estudiante</_hclass>
-					<_hname type="a">Buscar Horarios</_hname>
-					<_hid type="a">GUID 1a23c2e4-483c-4831-9045-079252f40b66</_hid>
+					<_hclass type="a">Generar Reporte de Cursos</_hclass>
+					<_hname type="a">Buscar Curso</_hname>
+					<_hid type="a">GUID 7a82592b-5bf2-4c90-9286-583790b3da4f</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Buscar Horarios</m_str>
+					<m_str type="a">Buscar Curso</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6299,7 +6121,7 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_pSource type="s">GUID 2ee7a504-6d55-422c-860e-504a41fc8384</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 01ec4c31-f58e-42f0-915a-bc0a4d8aedb7</m_pTarget>
+			<m_pTarget type="s">GUID 6f38e33e-2287-4221-8da3-9903d4822be8</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -6322,8 +6144,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1020 221 </m_SourcePort>
-			<m_TargetPort type="a">448 1058 </m_TargetPort>
+			<m_SourcePort type="a">930 122 </m_SourcePort>
+			<m_TargetPort type="a">337 1023 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -6499,8 +6321,8 @@
 			</_properties>
 			<_name type="a">Arquitectura del analisis</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::5:16:26</_modifiedTime>
-			<_lastModifiedTime type="a">1.1.2021::5:16:26</_lastModifiedTime>
+			<_modifiedTime type="a">1.1.2021::6:5:40</_modifiedTime>
+			<_lastModifiedTime type="a">1.1.2021::6:5:40</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -6543,7 +6365,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">19</elementList>
+			<elementList type="a">21</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -6575,6 +6397,8 @@
 				<value>GUID 0158b7e0-4770-4f6c-814a-3a997a6af1be</value>
 				<value>GUID f3f088db-1f01-4224-8003-29e04e1051e3</value>
 				<value>GUID 09769302-2424-4b02-a2a1-94b97ac42ada</value>
+				<value>GUID 7100b809-9e9c-47aa-a889-13582196c55f</value>
+				<value>GUID 6217195b-42da-430b-8f90-50813ae4731d</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -7375,7 +7199,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.134046 0 0 0.0842745 460 583 </m_transform>
+			<m_transform type="a">0.134046 0 0 0.0842745 753 583 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7463,7 +7287,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.134046 0 0 0.0842745 722 583 </m_transform>
+			<m_transform type="a">0.134046 0 0 0.0842745 529 583 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7938,6 +7762,128 @@
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 7100b809-9e9c-47aa-a889-13582196c55f</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hfilename type="a">.\REPORTES.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::REPORTES</_hsubsystem>
+					<_hname type="a">CURSO</_hname>
+					<_hid type="a">GUID e04865a4-7c74-4c0a-a3a9-55625528c623</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">CURSO</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID cf8a7c30-444b-4ea2-b024-b2a990affc89</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 0f98e573-451b-4488-be1e-cba48c2eb618</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">0 356 </m_SourcePort>
+			<m_TargetPort type="a">1209 1151 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
+		<CGIInheritance type="e">
+			<_id type="a">GUID 6217195b-42da-430b-8f90-50813ae4731d</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hfilename type="a">.\REPORTES.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::REPORTES</_hsubsystem>
+					<_hname type="a">ESTUDIANTE</_hname>
+					<_hid type="a">GUID 84e17ea1-48e9-4b50-b412-f4a13fd12a5f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">ESTUDIANTE</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID cf8a7c30-444b-4ea2-b024-b2a990affc89</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 653fe97a-c2da-4c11-a4f2-4554621507d2</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">813 225 </m_SourcePort>
+			<m_TargetPort type="a">933 1151 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
 		<ISubsystem type="e">
 			<fileName type="a">HORARIOS</fileName>
 			<_id type="a">GUID a09b142a-faea-4fb2-8164-fce0f1b7bebf</_id>
@@ -7997,10 +7943,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
