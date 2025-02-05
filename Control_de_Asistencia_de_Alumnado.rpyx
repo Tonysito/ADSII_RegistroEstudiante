@@ -42,8 +42,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Control_de_Asistencia_de_Alumnado</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:45:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::5:45:0</_modifiedTime>
+			<_modifiedTimeWeak type="a">1.1.2021::7:8:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::7:8:40</_modifiedTime>
 			<_lastID type="a">13</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -121,7 +121,6 @@
 				<value>GUID 29cb6f47-5cb8-4f49-b115-a62aae1d4c2b</value>
 				<value>GUID b2c0b75f-fc54-4e42-ad43-79559e5e32bb</value>
 				<value>GUID dc195ea4-34dc-4b06-9866-f871901cdece</value>
-				<value>GUID b613521b-931c-410f-9856-1d70e2b5629d</value>
 				<value>GUID 66cfbbc3-aec8-4914-ba9c-8fa2ac4bf3e7</value>
 				<value>GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</value>
 				<value>GUID b687cc54-b099-4d3e-a1a0-fd36cfcf0da8</value>
@@ -164,10 +163,6 @@
 		<ISubsystem type="e">
 			<fileName type="a">MA</fileName>
 			<_id type="a">GUID dc195ea4-34dc-4b06-9866-f871901cdece</_id>
-		</ISubsystem>
-		<ISubsystem type="e">
-			<fileName type="a">MATRICULA</fileName>
-			<_id type="a">GUID b613521b-931c-410f-9856-1d70e2b5629d</_id>
 		</ISubsystem>
 		<IStructureDiagram type="e">
 			<_id type="a">GUID 66cfbbc3-aec8-4914-ba9c-8fa2ac4bf3e7</_id>
@@ -365,8 +360,8 @@
 			</_properties>
 			<_name type="a">Estructura General del Proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::11:8:15</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::11:8:15</_lastModifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:8:40</_modifiedTime>
+			<_lastModifiedTime type="a">1.1.2021::7:8:40</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>

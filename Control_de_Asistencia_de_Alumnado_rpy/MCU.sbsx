@@ -12,7 +12,7 @@
 			<_id type="a">GUID b2c0b75f-fc54-4e42-ad43-79559e5e32bb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:58:20</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::7:7:6</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,7 +22,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">1.1.2021::5:58:20</_modifiedTime>
 			<_lastID type="a">60</_lastID>
-			<weakCGTime type="a">1.1.2021::5:58:20</weakCGTime>
+			<weakCGTime type="a">1.1.2021::7:7:6</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:59:58</strongCGTime>
 			<_defaultComposite type="s">GUID cf893137-9c69-4486-916b-7e1adca94f4c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -276,8 +276,8 @@
 			</_properties>
 			<_name type="a">Diagrama General de Caso de uso</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::6:0:19</_modifiedTime>
-			<_lastModifiedTime type="a">1.1.2021::6:0:19</_lastModifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
+			<_lastModifiedTime type="a">1.1.2021::7:7:16</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1659,7 +1659,7 @@
 			<m_pParent type="s">GUID 0600556d-2f72-4bee-9e9a-873e13d418ab</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Buscar Docente</m_str>
+					<m_str type="a">Buscar Profesor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2503,7 +2503,7 @@
 			<m_pParent type="s">GUID 0600556d-2f72-4bee-9e9a-873e13d418ab</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Mantener Docente</m_str>
+					<m_str type="a">Mantener Profesor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6170,7 +6170,7 @@
 		<IUseCase type="e">
 			<_id type="a">GUID 1eaa4b77-12b7-40d0-8931-8dbeee7f7bc4</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Buscar Docente</_name>
+			<_name type="a">Buscar Profesor</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
@@ -6181,7 +6181,7 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::6:20:35</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:6</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -6328,7 +6328,7 @@
 		<IUseCase type="e">
 			<_id type="a">GUID 6cddf371-c9d7-4e43-819a-192b994a9f60</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Mantener Docente</_name>
+			<_name type="a">Mantener Profesor</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
@@ -6339,7 +6339,7 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::7:43:30</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -6360,7 +6360,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsPersonal Administrativo</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::7:43:30</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -6648,7 +6648,7 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:3:27</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:6</_modifiedTime>
 			<_lastID type="a">6</_lastID>
 			<weakCGTime type="a">1.1.2021::7:46:31</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -6671,7 +6671,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 9b1659be-2f88-4009-bf8b-8a72f980391e</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">Buscar Docente</_name>
+			<_name type="a">Buscar Profesor</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -6685,7 +6685,7 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.1.2021::7:46:24</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::7:46:24</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:6</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
@@ -7245,7 +7245,7 @@
 			<_id type="a">GUID 1a9edc02-3701-4a7e-8ca1-e915dc0f5f67</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Personal Administrativo</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:51:13</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::7:7:16</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -7255,8 +7255,8 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::7:44:12</_modifiedTime>
-			<weakCGTime type="a">1.1.2021::5:51:13</weakCGTime>
+			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
+			<weakCGTime type="a">1.1.2021::7:7:16</weakCGTime>
 			<strongCGTime type="a">1.1.2021::5:51:13</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -7318,9 +7318,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 7897d798-5ec3-4069-a6e8-4aa468e67957</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsMantener Docente</_name>
+			<_name type="a">itsMantener Profesor</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::7:43:30</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
