@@ -12,7 +12,7 @@
 			<_id type="a">GUID a09b142a-faea-4fb2-8164-fce0f1b7bebf</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">HORARIOS</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:12:8</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::7:7:31</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,7 +22,7 @@
 					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:12:8</_modifiedTime>
+			<_modifiedTime type="a">1.1.2021::7:7:31</_modifiedTime>
 			<_lastID type="a">9</_lastID>
 			<weakCGTime type="a">1.1.2021::7:58:28</weakCGTime>
 			<strongCGTime type="a">1.1.2021::7:58:28</strongCGTime>
@@ -62,15 +62,15 @@
 		<IDependency type="e">
 			<_id type="a">GUID a17d18e6-d148-496e-ad2d-73586971f187</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">DOCENTE</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::7:58:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::7:58:20</_modifiedTime>
+			<_name type="a">PROFESOR</_name>
+			<_modifiedTimeWeak type="a">1.1.2021::7:7:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.2021::7:7:31</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hfilename type="a">.\DOCENTE.sbsx</_hfilename>
+					<_hfilename type="a">.\PROFESOR.sbsx</_hfilename>
 					<_hsubsystem type="a">MA</_hsubsystem>
-					<_hname type="a">DOCENTE</_hname>
+					<_hname type="a">PROFESOR</_hname>
 					<_hid type="a">GUID f526b6c1-b5fd-4ec5-b9b1-4bdac0889848</_hid>
 				</INObjectHandle>
 			</_dependsOn>

@@ -9,31 +9,22 @@
 	
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
-			<_id type="a">GUID f526b6c1-b5fd-4ec5-b9b1-4bdac0889848</_id>
+			<_id type="a">GUID 8cb0ba20-a1ff-4d2f-bff7-640cda79972e</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">DOCENTE</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::6:25:59</_modifiedTimeWeak>
-			<_theMainDiagram type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IDiagram</_hm2Class>
-					<_hfilename type="a">.\MA.sbsx</_hfilename>
-					<_hsubsystem type="a">MA</_hsubsystem>
-					<_hname type="a">Arquitectura del analisis</_hname>
-					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
-				</IHandle>
-			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::6:25:59</_modifiedTime>
-			<weakCGTime type="a">1.1.2021::6:25:59</weakCGTime>
-			<strongCGTime type="a">1.1.2021::6:25:59</strongCGTime>
-			<_defaultComposite type="s">GUID 7e067f15-d07b-497f-8e22-bc38ac2807a7</_defaultComposite>
+			<_name type="a">RA_RegistrarReporteAsistenciaAlumno</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::7:3:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::7:3:57</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::7:3:57</weakCGTime>
+			<strongCGTime type="a">7.28.2021::7:3:57</strongCGTime>
+			<_defaultComposite type="s">GUID 177d16a7-588c-4d6e-91e0-94834f727aa8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
-				<value>GUID 7e067f15-d07b-497f-8e22-bc38ac2807a7</value>
+				<value>GUID 177d16a7-588c-4d6e-91e0-94834f727aa8</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IClass type="e">
-			<_id type="a">GUID 7e067f15-d07b-497f-8e22-bc38ac2807a7</_id>
+			<_id type="a">GUID 177d16a7-588c-4d6e-91e0-94834f727aa8</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
