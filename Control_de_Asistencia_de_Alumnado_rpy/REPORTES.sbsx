@@ -12,7 +12,7 @@
 			<_id type="a">GUID 3feaf237-0277-4658-8eb6-b4a793ad1ff2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">REPORTES</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::6:5:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::7:2:46</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,16 +22,21 @@
 					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::6:5:18</_modifiedTime>
-			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">1.1.2021::6:5:18</weakCGTime>
+			<_modifiedTime type="a">7.28.2021::7:2:46</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">7.28.2021::7:2:46</weakCGTime>
 			<strongCGTime type="a">1.1.2021::6:36:49</strongCGTime>
 			<_defaultComposite type="s">GUID ed79f56e-6841-4277-89ff-f1a830db235b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<UseCases type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCases>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID e04865a4-7c74-4c0a-a3a9-55625528c623</value>
 				<value>GUID 84e17ea1-48e9-4b50-b412-f4a13fd12a5f</value>
+				<value>GUID 8cb0ba20-a1ff-4d2f-bff7-640cda79972e</value>
 				<value>GUID ed79f56e-6841-4277-89ff-f1a830db235b</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -79,6 +84,10 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<ISubsystem type="e">
+			<fileName type="a">RA_RegistrarReporteAsistenciaAlumno</fileName>
+			<_id type="a">GUID 8cb0ba20-a1ff-4d2f-bff7-640cda79972e</_id>
+		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID ed79f56e-6841-4277-89ff-f1a830db235b</_id>
 			<_myState type="a">40960</_myState>

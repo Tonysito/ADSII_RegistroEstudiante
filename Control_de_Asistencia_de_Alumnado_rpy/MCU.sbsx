@@ -12,7 +12,7 @@
 			<_id type="a">GUID b2c0b75f-fc54-4e42-ad43-79559e5e32bb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::7:7:6</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::6:53:41</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,9 +20,9 @@
 					<_hid type="a">GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:58:20</_modifiedTime>
+			<_modifiedTime type="a">7.28.2021::8:12:26</_modifiedTime>
 			<_lastID type="a">60</_lastID>
-			<weakCGTime type="a">1.1.2021::7:7:6</weakCGTime>
+			<weakCGTime type="a">7.28.2021::6:53:41</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:59:58</strongCGTime>
 			<_defaultComposite type="s">GUID cf893137-9c69-4486-916b-7e1adca94f4c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -6101,10 +6101,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Diagrams>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -6456,10 +6452,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Diagrams>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -6526,7 +6518,7 @@
 			<_id type="a">GUID 291743a8-8374-48e5-b675-7d058ae1bd1d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar Reporte de Padres o Tutores</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2021::5:56:3</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -7245,7 +7237,7 @@
 			<_id type="a">GUID 1a9edc02-3701-4a7e-8ca1-e915dc0f5f67</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Personal Administrativo</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::7:7:16</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::6:53:41</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -7255,8 +7247,8 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::7:7:16</_modifiedTime>
-			<weakCGTime type="a">1.1.2021::7:7:16</weakCGTime>
+			<_modifiedTime type="a">7.28.2021::6:53:41</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::6:53:41</weakCGTime>
 			<strongCGTime type="a">1.1.2021::5:51:13</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -7269,6 +7261,9 @@
 				<value>GUID 7897d798-5ec3-4069-a6e8-4aa468e67957</value>
 				<value>GUID c703783f-dd64-4986-a018-9ecacdfce35c</value>
 				<value>GUID da461aba-1f9d-4200-91e4-80b9fc080f79</value>
+				<value>GUID 0500a28f-578a-44d6-96f6-cf5f9bd360b1</value>
+				<value>GUID 5e7566a0-e4a8-4d13-b4d3-b6f42ed6c4b1</value>
+				<value>GUID 4653fd87-2bd3-4918-a395-5565f2f0d452</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -7376,6 +7371,93 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 4cfa1472-351b-432b-8d40-243dd4e4ae61</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0500a28f-578a-44d6-96f6-cf5f9bd360b1</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MenuPrincipal</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:46:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:46:25</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hname type="a">CI_MenuPrincipal</_hname>
+					<_hid type="a">GUID f4a9b56c-8657-4bb4-8ea7-498208bd6a2c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hclass type="a">CI_MenuPrincipal</_hclass>
+					<_hname type="a">itsPersonal Administrativo</_hname>
+					<_hid type="a">GUID e89d8126-c5e1-4ee4-a38e-349797b26131</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5e7566a0-e4a8-4d13-b4d3-b6f42ed6c4b1</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MantenerCurso</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:53:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:53:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hname type="a">CI_MantenerCurso</_hname>
+					<_hid type="a">GUID 454aa2e5-9650-496a-a080-ad40fa38fe31</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hclass type="a">CI_MantenerCurso</_hclass>
+					<_hname type="a">itsPersonal Administrativo</_hname>
+					<_hid type="a">GUID e38fa0ee-7b78-4dfd-8f1e-e233f2ea5afb</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4653fd87-2bd3-4918-a395-5565f2f0d452</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Curso</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::6:46:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:46:35</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hname type="a">CI_Curso</_hname>
+					<_hid type="a">GUID f72e52a4-64ca-463b-8df5-4fb2699da5ba</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+					<_hclass type="a">CI_Curso</_hclass>
+					<_hname type="a">itsPersonal Administrativo</_hname>
+					<_hid type="a">GUID 55dbb31c-83dc-49fc-8f93-ba09505f4959</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>

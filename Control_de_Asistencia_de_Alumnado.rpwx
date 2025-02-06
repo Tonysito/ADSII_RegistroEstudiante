@@ -27,6 +27,7 @@
 								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
+<<<<<<< HEAD
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">1402</m_nRight>
 								<m_nBottom type="a">822</m_nBottom>
@@ -92,6 +93,11 @@
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">1402</m_nRight>
 								<m_nBottom type="a">822</m_nBottom>
+=======
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+>>>>>>> 0eb1e8f36b1e82245e7d0173de9ea6cbd1128f51
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -104,6 +110,7 @@
 								<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 							</IHandle>
 						</_theDiagram>
+<<<<<<< HEAD
 						<_UpLeft type="a">-2 0 </_UpLeft>
 						<_DownRight type="a">2147 1209 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
@@ -238,9 +245,17 @@
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
+=======
+						<_UpLeft type="a">-66 31 </_UpLeft>
+						<_DownRight type="a">1843 1149 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+>>>>>>> 0eb1e8f36b1e82245e7d0173de9ea6cbd1128f51
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\Maricielo\Documents\PROYECTO ADSII\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado</_fullName>
+			<_fullName type="a">C:\COMPUTACION E INFORMATICA\CICLO 4\ANALISIS Y DISE%D1O DE SISTEMAS II\Proyecto\PROYECTO_REPOSITORIO\Version 1.1\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
