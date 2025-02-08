@@ -11,6 +11,10 @@
 	<CGEMdiWorkspace type="e">
 			<stubList type="c">
 				<IRPYRawContainer type="e">
+<<<<<<< HEAD
+=======
+					<value>GUID 7e97bde9-a060-4e4f-bb69-e3b345acb7db</value>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 				</IRPYRawContainer>
 			</stubList>
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
@@ -24,12 +28,21 @@
 								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+<<<<<<< HEAD
 								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">1416</m_nRight>
 								<m_nBottom type="a">822</m_nBottom>
+=======
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
@@ -43,7 +56,43 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
+<<<<<<< HEAD
 						<_DownRight type="a">1390 774 </_DownRight>
+=======
+						<_DownRight type="a">1109 649 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\MA.sbsx</_hfilename>
+								<_hsubsystem type="a">MA</_hsubsystem>
+								<_hname type="a">Arquitectura del analisis</_hname>
+								<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 81 </_UpLeft>
+						<_DownRight type="a">1109 730 </_DownRight>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -56,6 +105,7 @@
 								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+<<<<<<< HEAD
 								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
@@ -109,6 +159,29 @@
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">1390 774 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+=======
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\RA_MantenerCurso.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+								<_hname type="a">DC MantenerCurso</_hname>
+								<_hid type="a">GUID ded5b27b-d0eb-4821-aa3c-9daffbd7430f</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1254 734 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -120,12 +193,117 @@
 								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+<<<<<<< HEAD
 								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">1416</m_nRight>
 								<m_nBottom type="a">822</m_nBottom>
+=======
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">ICollaborationDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\RA_MantenerCurso.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+								<_hname type="a">DC SubFlujo EditarCurso</_hname>
+								<_hid type="a">GUID 510c3ef4-657b-4fc3-817e-42afed347970</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1109 649 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">ICollaborationDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\RA_MantenerCurso.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+								<_hname type="a">DC_SubFlujo CrearNuevo</_hname>
+								<_hid type="a">GUID 78ffc4b1-7621-4d90-9ef0-a5088f813eeb</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1109 649 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">ICollaborationDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\RA_MantenerCurso.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::CURSO::RA_MantenerCurso</_hsubsystem>
+								<_hname type="a">DC_SubFlujo EliminarCurso</_hname>
+								<_hid type="a">GUID ba02f272-2ff4-43c9-9a28-9f9121c8d588</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1109 649 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
@@ -138,10 +316,17 @@
 								<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 							</IHandle>
 						</_theDiagram>
+<<<<<<< HEAD
 						<_UpLeft type="a">-2 190 </_UpLeft>
 						<_DownRight type="a">1851 1222 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
+=======
+						<_UpLeft type="a">-66 0 </_UpLeft>
+						<_DownRight type="a">1592 971 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -152,12 +337,21 @@
 								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+<<<<<<< HEAD
 								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
 								<m_nRight type="a">1402</m_nRight>
 								<m_nBottom type="a">822</m_nBottom>
+=======
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
@@ -234,15 +428,57 @@
 								<_hid type="a">GUID 6cc60bbc-48b5-43de-b0aa-a2e8b467cef0</_hid>
 							</IHandle>
 						</_theDiagram>
+<<<<<<< HEAD
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">1376 774 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+=======
+						<_UpLeft type="a">-3 0 </_UpLeft>
+						<_DownRight type="a">1106 649 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">35</m_nTop>
+								<m_nRight type="a">1152</m_nRight>
+								<m_nBottom type="a">719</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Control_de_Asistencia_de_Alumnado_rpy\MCU.sbsx</_hfilename>
+								<_hsubsystem type="a">MCU</_hsubsystem>
+								<_hname type="a">Diagrama General de Caso de uso</_hname>
+								<_hid type="a">GUID 278e1608-e184-4b3e-86bc-abc77506d68e</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 53 </_UpLeft>
+						<_DownRight type="a">1478 918 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
+<<<<<<< HEAD
 			<_fullName type="a">C:\Users\Maricielo\Documents\PROYECTO ADSII Actual\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado</_fullName>
+=======
+			<_fullName type="a">C:\COMPUTACION E INFORMATICA\CICLO 4\ANALISIS Y DISE%D1O DE SISTEMAS II\Proyecto\PROYECTO_REPOSITORIO\Version 1.3\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado</_fullName>
+>>>>>>> 340a11349260d3458a29e6778f7a90c7a9a0a6dd
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
