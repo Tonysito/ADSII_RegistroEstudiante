@@ -2,10 +2,9 @@
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
-	<version>110.0.1</version>
+	<version>100.840.0</version>
 	<lang>C++</lang>
-	<BuildNo>202408271326</BuildNo>
-	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	<BuildNo>9841247</BuildNo>
 	
 	<RHAPSODY-MODEL>
 	<IProject type="e">
@@ -14,14 +13,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">CPP_CG</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Configuration</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Environment</_Name>
 													<_Value type="a">Cygwin</_Value>
@@ -42,11 +44,12 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Control_de_Asistencia_de_Alumnado</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:7:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2021::5:7:45</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.1.2021::21:51:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::21:51:37</_modifiedTime>
 			<_lastID type="a">13</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
+					<size type="a">16</size>
 					<value>16777215</value>
 					<value>16777215</value>
 					<value>16777215</value>
@@ -81,6 +84,7 @@
 			</_component>
 			<Multiplicities type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">4</size>
 					<IMultiplicityItem type="e">
 						<_name type="a">1</_name>
 						<_count type="a">-1</_count>
@@ -106,10 +110,12 @@
 			<_isImportedFromDM type="a">0</_isImportedFromDM>
 			<mapOslcAddedCollections type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</mapOslcAddedCollections>
 			<mapAssociationsToRemove type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</mapAssociationsToRemove>
 			<AggregatesList type="e">
@@ -137,13 +143,13 @@
 		</IProfile>
 		<IProfile type="e">
 			<fileName type="a">BusinessModeling</fileName>
-			<_persistAs type="a">C:\Users\Maricielo\Documents\PROYECTO ADSII Actual\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado_rpy\profiles\BusinessModelingProfile</_persistAs>
+			<_persistAs type="a">C:\ADS1\profiles\BusinessModelingProfile</_persistAs>
 			<_id type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
 		<IProfile type="e">
 			<fileName type="a">AnalysisModel</fileName>
-			<_persistAs type="a">C:\Users\Maricielo\Documents\PROYECTO ADSII Actual\ADSII_RegistroEstudiante\Control_de_Asistencia_de_Alumnado_rpy\profiles\AnalysisProfile</_persistAs>
+			<_persistAs type="a">C:\ADS1\profiles\AnalysisProfile</_persistAs>
 			<_id type="a">GUID f883ccaf-9b1e-452f-809a-40b7ddb88a81</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
@@ -300,10 +306,12 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 		</CGIClass>
@@ -313,14 +321,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Package</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,216,151</_Value>
@@ -377,8 +388,8 @@
 			</_properties>
 			<_name type="a">Estructura General del Proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::19:38:29</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::19:38:29</_lastModifiedTime>
+			<_modifiedTime type="a">3.1.2021::21:35:12</_modifiedTime>
+			<_lastModifiedTime type="a">3.1.2021::21:35:12</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -441,9 +452,9 @@
 				<value>GUID f933136e-0c8f-4c5c-9e59-83cbb09490af</value>
 				<value>GUID 9a8d4ad2-f783-453c-8649-ce1bf5d5718f</value>
 				<value>GUID e45522b4-30d3-454c-9b91-bde5b8b96935</value>
-				<value>GUID f6b6e13e-7fdf-4ca1-a0e4-0a8988b7b9d6</value>
-				<value>GUID 90502deb-4ca7-4d01-b6e0-8ab8a11cf09f</value>
-				<value>GUID 43dde9b5-89c6-42ac-b0d9-505efc428f90</value>
+				<value>GUID 6c6253e5-8ef8-43c1-8ad1-cb68f73b1b60</value>
+				<value>GUID 87dc61e8-401c-48c2-9732-6e376a364c1d</value>
+				<value>GUID de3eb0b4-5b56-4d94-b526-eacfb820705b</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -498,10 +509,12 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 		</CGIClass>
@@ -510,14 +523,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -586,7 +602,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Estructura General del Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 90502deb-4ca7-4d01-b6e0-8ab8a11cf09f</_hid>
+					<_hid type="a">GUID 87dc61e8-401c-48c2-9732-6e376a364c1d</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -645,7 +661,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Estructura General del Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 43dde9b5-89c6-42ac-b0d9-505efc428f90</_hid>
+					<_hid type="a">GUID de3eb0b4-5b56-4d94-b526-eacfb820705b</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -657,14 +673,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -784,7 +803,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Estructura General del Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID f6b6e13e-7fdf-4ca1-a0e4-0a8988b7b9d6</_hid>
+					<_hid type="a">GUID 6c6253e5-8ef8-43c1-8ad1-cb68f73b1b60</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -792,7 +811,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIPackage>
 		<CGIImageData type="e">
-			<_id type="a">GUID f6b6e13e-7fdf-4ca1-a0e4-0a8988b7b9d6</_id>
+			<_id type="a">GUID 6c6253e5-8ef8-43c1-8ad1-cb68f73b1b60</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -823,7 +842,7 @@
 			<m_fileModifiedTime type="a">12.31.1969::19:0:0</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 90502deb-4ca7-4d01-b6e0-8ab8a11cf09f</_id>
+			<_id type="a">GUID 87dc61e8-401c-48c2-9732-6e376a364c1d</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -854,7 +873,7 @@
 			<m_fileModifiedTime type="a">12.31.1969::19:0:0</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 43dde9b5-89c6-42ac-b0d9-505efc428f90</_id>
+			<_id type="a">GUID de3eb0b4-5b56-4d94-b526-eacfb820705b</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -892,6 +911,7 @@
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
+			<size type="a">0</size>
 		</IRPYRawContainer>
 	</OslcLinks>
 
