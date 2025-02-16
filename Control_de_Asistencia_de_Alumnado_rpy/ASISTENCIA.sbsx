@@ -12,7 +12,7 @@
 			<_id type="a">GUID ed179665-db81-4aad-8e3e-2e29629cd68c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ASISTENCIA</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:15:47</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::7:30:32</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,15 +22,16 @@
 					<_hid type="a">GUID 3919ae37-cfaa-4fa5-a1c2-7c453410603c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:15:47</_modifiedTime>
-			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">1.1.2021::5:15:47</weakCGTime>
+			<_modifiedTime type="a">3.1.2021::7:31:20</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">3.1.2021::7:30:32</weakCGTime>
 			<strongCGTime type="a">1.1.2021::7:57:37</strongCGTime>
 			<_defaultComposite type="s">GUID c944afce-872b-4e62-bd29-89216780e2bf</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID b339f119-1572-44a3-bd0c-c3844e72600c</value>
+				<value>GUID b930d147-8121-467d-95c9-b9310a8e30df</value>
 				<value>GUID c944afce-872b-4e62-bd29-89216780e2bf</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -56,6 +57,10 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<ISubsystem type="e">
+			<fileName type="a">RegistrarAsistencia</fileName>
+			<_id type="a">GUID b930d147-8121-467d-95c9-b9310a8e30df</_id>
+		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID c944afce-872b-4e62-bd29-89216780e2bf</_id>
 			<_myState type="a">40960</_myState>

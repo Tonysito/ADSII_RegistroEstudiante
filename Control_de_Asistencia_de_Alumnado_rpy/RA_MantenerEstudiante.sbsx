@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID c10c890a-be2a-4e0b-8f39-855a890d9eda</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RA_MantenerEstudiante</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::7:56:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::7:56:29</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.1.2021::7:56:29</weakCGTime>
+			<strongCGTime type="a">3.1.2021::6:39:2</strongCGTime>
+			<_defaultComposite type="s">GUID c84e1fd4-d3b6-405b-b214-8ff6f96be2a7</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c84e1fd4-d3b6-405b-b214-8ff6f96be2a7</value>
+				<value>GUID c0d23476-ba40-4330-934d-4fa8076c945a</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID c84e1fd4-d3b6-405b-b214-8ff6f96be2a7</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID c0d23476-ba40-4330-934d-4fa8076c945a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CE_Estudiante</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
+							<_hname type="a">Entity</_hname>
+							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.1.2021::7:56:29</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Modelo Conceptual</_hname>
+					<_hid type="a">GUID 177074ea-341e-4df1-85af-d97fa6d61cfa</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">3.1.2021::7:56:29</_modifiedTime>
+			<_lastID type="a">9</_lastID>
+			<weakCGTime type="a">3.1.2021::7:56:29</weakCGTime>
+			<strongCGTime type="a">3.1.2021::6:40:4</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID d7b55389-c0ea-4843-8fa1-b24579dfe6ec</value>
+				<value>GUID 16794ad8-4a2f-440b-b8e7-b3f280743474</value>
+				<value>GUID b1aa5eb5-9962-45a0-8936-2cd2886eaaf5</value>
+				<value>GUID 6f35a01c-490c-4fef-b6c0-384ad5e7e7a4</value>
+				<value>GUID d04185f2-517f-4869-bac0-1bb418b5579f</value>
+				<value>GUID 0fa74718-e46b-44ab-ab5a-2df76dfecbc8</value>
+				<value>GUID 1f8e1918-5f13-4201-abdd-e03ffdbeac8e</value>
+				<value>GUID e9af7e2c-8317-459b-8aca-1cfacca1cb54</value>
+				<value>GUID a1fdb38f-2859-48be-8de8-767169cab1fa</value>
+				<value>GUID c1a8455f-2896-4b4d-b6cd-2fb28aa7d3fe</value>
+				<value>GUID 0eca5d03-e4db-44f0-aebd-c52728dd0d80</value>
+			</AggregatesList>
+		</IClass>
+		<IAttribute type="e">
+			<_id type="a">GUID d7b55389-c0ea-4843-8fa1-b24579dfe6ec</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EstudianteID</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:44:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:44:48</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID 16794ad8-4a2f-440b-b8e7-b3f280743474</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TipoDocumento</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:45:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:45:34</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID d757fd4d-ad4a-461f-8b15-d5817f7aa4ab</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID d757fd4d-ad4a-461f-8b15-d5817f7aa4ab</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID b1aa5eb5-9962-45a0-8936-2cd2886eaaf5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">NumeroDocumento</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:45:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:45:20</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 04cfaeb6-a745-49ea-9f06-f0e4d6a94293</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 04cfaeb6-a745-49ea-9f06-f0e4d6a94293</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID 6f35a01c-490c-4fef-b6c0-384ad5e7e7a4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Nombres</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:45:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:45:42</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 6a336dea-18cc-4107-88c8-cca6b625c605</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 6a336dea-18cc-4107-88c8-cca6b625c605</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID d04185f2-517f-4869-bac0-1bb418b5579f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Apellidos</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:45:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:45:49</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 9e45da44-d70b-4491-8edb-2ea05fa209c2</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 9e45da44-d70b-4491-8edb-2ea05fa209c2</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID 0fa74718-e46b-44ab-ab5a-2df76dfecbc8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FechaNacimiento</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:46:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:46:0</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 1b1cb7c7-2a2d-4a7d-b7b3-988cfdaa89d4</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 1b1cb7c7-2a2d-4a7d-b7b3-988cfdaa89d4</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">date</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID 1f8e1918-5f13-4201-abdd-e03ffdbeac8e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Genero</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:46:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:46:20</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">char</_hname>
+					<_hid type="a">GUID 717461b3-278b-47c8-9526-c62c7be55b14</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID e9af7e2c-8317-459b-8aca-1cfacca1cb54</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Email</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:46:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:46:28</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID d467f10f-e50f-493e-a512-1e68321f8541</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID d467f10f-e50f-493e-a512-1e68321f8541</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAttribute type="e">
+			<_id type="a">GUID a1fdb38f-2859-48be-8de8-767169cab1fa</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Telefono</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:46:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:46:39</_modifiedTime>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 896fa8a4-4362-41fa-ab64-d5e45a0d564d</value>
+			</AggregatesList>
+		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 896fa8a4-4362-41fa-ab64-d5e45a0d564d</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c1a8455f-2896-4b4d-b6cd-2fb28aa7d3fe</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCE_Matricula</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:49:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:49:0</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarMatricula.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::MATRICULA::RA_RegistrarMatricula</_hsubsystem>
+					<_hname type="a">CE_Matricula</_hname>
+					<_hid type="a">GUID d9045ebb-1e49-4f81-a762-941203586f24</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarMatricula.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::MATRICULA::RA_RegistrarMatricula</_hsubsystem>
+					<_hclass type="a">CE_Matricula</_hclass>
+					<_hname type="a">itsCE_Estudiante</_hname>
+					<_hid type="a">GUID c80028ba-57b5-4f92-b76a-5e3a5773f6f5</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0eca5d03-e4db-44f0-aebd-c52728dd0d80</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCE_Horario_Estudiante</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::7:56:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::7:56:29</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RegistrarAsistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ASISTENCIA::RegistrarAsistencia</_hsubsystem>
+					<_hname type="a">CE_Horario_Estudiante</_hname>
+					<_hid type="a">GUID 98d775f5-ec2a-40ab-ba14-f78049e5570b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RegistrarAsistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ASISTENCIA::RegistrarAsistencia</_hsubsystem>
+					<_hclass type="a">CE_Horario_Estudiante</_hclass>
+					<_hname type="a">itsCE_Estudiante</_hname>
+					<_hid type="a">GUID 53d0bcd5-37bc-47ba-89ac-9b85b4b83be1</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

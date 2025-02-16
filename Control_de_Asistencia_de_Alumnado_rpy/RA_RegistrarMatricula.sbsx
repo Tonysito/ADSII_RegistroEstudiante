@@ -2,19 +2,20 @@
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
-	<version>100.840.0</version>
+	<version>110.0.1</version>
 	<lang>C++</lang>
-	<BuildNo>9841247</BuildNo>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
 	
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
 			<_id type="a">GUID 0d7a250b-a684-4eb6-a77d-0e348c0caf64</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RA_RegistrarMatricula</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::21:36:22</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::21:51:37</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.1.2021::6:50:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:50:46</_modifiedTime>
 			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">3.1.2021::21:36:22</weakCGTime>
+			<weakCGTime type="a">3.1.2021::6:50:46</weakCGTime>
 			<strongCGTime type="a">3.1.2021::19:54:30</strongCGTime>
 			<_defaultComposite type="s">GUID 58bf0ec9-7175-47f4-bfa5-cc4c568f225b</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -35,17 +36,14 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
-						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
-									<size type="a">4</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,53,142</_Value>
@@ -96,7 +94,6 @@
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Font</_Name>
 													<_Value type="a">Tahoma</_Value>
@@ -129,7 +126,6 @@
 										<_Name type="a">Class</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">8</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,34,84,148</_Value>
@@ -186,7 +182,6 @@
 										<_Name type="a">Stereotype</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,108,73</_Value>
@@ -241,12 +236,10 @@
 							<_Name type="a">ObjectModelGe</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
-									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">ShowSourceMultiplicity</_Name>
 													<_Value type="a">False</_Value>
@@ -286,7 +279,6 @@
 			<_name type="a">DiagramaClasesAnalisis</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -298,8 +290,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::21:36:41</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::21:36:41</_lastModifiedTime>
+			<_modifiedTime type="a">3.1.2021::6:29:38</_modifiedTime>
+			<_lastModifiedTime type="a">3.1.2021::6:29:38</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -421,12 +413,10 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 		</CGIClass>
@@ -541,12 +531,10 @@
 			<frameset type="a">&lt;frameset rows=&gt;</frameset>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 			<AggregatesList type="e">
@@ -562,7 +550,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -574,7 +561,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -667,12 +653,10 @@
 			<frameset type="a">&lt;frameset rows=&gt;</frameset>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 			<AggregatesList type="e">
@@ -688,7 +672,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -700,7 +683,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -1125,12 +1107,10 @@
 			<frameset type="a">&lt;frameset rows=&gt;</frameset>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 			<AggregatesList type="e">
@@ -1146,7 +1126,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -1158,7 +1137,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -1555,7 +1533,7 @@
 			<m_pParent type="s">GUID 332aff3c-62de-4950-9da3-0d39c943543c</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Matricula</m_str>
+					<m_str type="a">CE_Matricula</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1601,12 +1579,10 @@
 			<frameset type="a">&lt;frameset rows=&gt;</frameset>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 			<AggregatesList type="e">
@@ -1622,7 +1598,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -1634,7 +1609,6 @@
 			<m_bOrdered type="a">0</m_bOrdered>
 			<Items type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Items>
 		</CGICompartment>
@@ -1850,17 +1824,14 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
-						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
-									<size type="a">3</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">AssociationRole</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">6</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -1905,7 +1876,6 @@
 										<_Name type="a">Classifier_Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,53,142</_Value>
@@ -1956,7 +1926,6 @@
 										<_Name type="a">Classifier_Role</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
-												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,108,72</_Value>
@@ -2013,8 +1982,8 @@
 			</_properties>
 			<_name type="a">DiagramaComunicacion-FlujoBasico</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::21:55:50</_modifiedTime>
-			<_lastModifiedTime type="a">3.1.2021::21:55:50</_lastModifiedTime>
+			<_modifiedTime type="a">3.1.2021::6:29:38</_modifiedTime>
+			<_lastModifiedTime type="a">3.1.2021::6:29:38</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2979,7 +2948,7 @@
 			<m_pParent type="s">GUID ec8ce36a-f3d5-4e7d-b88e-18065e00f97d</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:Matricula</m_str>
+					<m_str type="a">:CE_Matricula</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3929,25 +3898,22 @@
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID d519ea36-b647-46ed-955e-229606dc9a58</_id>
-			<_myState type="a">64</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID 5fda0d81-fd8c-4617-8eb2-8f471f192fd0</second>
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID 851ffcd4-398c-42d9-a079-4580d236c0db</_id>
-			<_myState type="a">64</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID 795ac82a-8582-4207-a08e-0c34213fa7a7</second>
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID 3251bfcb-df3b-4bd0-8773-501fecf6e8f4</_id>
-			<_myState type="a">64</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID 2ca5ffa4-ed9c-4ae1-83bf-472690b15e7a</second>
 		</CollEvent>
@@ -3960,31 +3926,29 @@
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID c178210d-fcfc-4cfb-95a1-d0bbfaf80167</_id>
-			<_myState type="a">64</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID feddbdc0-a9a1-422b-a950-6558166215e3</second>
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID a7a315bf-2689-43f4-bd3d-3f35452861ec</_id>
-			<_myState type="a">64</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID c20c6030-a2be-484f-a73f-2d01b0dd8735</second>
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID 00f89923-cc57-4271-8f99-cac5ee1c55b6</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID a84fe265-2e74-48e9-89ca-ff04248e50ce</second>
 		</CollEvent>
 		<CollEvent type="e">
 			<_id type="a">GUID 96c7541e-63fe-4831-8674-e72bf4bbf713</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<first type="a">UNSPECIFIED</first>
 			<second type="s">GUID 94b3da12-5180-4134-a4bf-098abafab934</second>
 		</CollEvent>
@@ -4008,11 +3972,10 @@
 			<_name type="a">CI_MenuPrincipaL</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -4097,11 +4060,10 @@
 			<_name type="a">CI_RegistrarMatricula</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -4186,11 +4148,10 @@
 			<_name type="a">CC_Matricula</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Control</_hname>
 							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
@@ -4198,15 +4159,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::21:36:41</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::6:29:38</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 1baf4c56-546b-45e7-aa31-74fdf147cf7b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::21:36:41</_modifiedTime>
-			<weakCGTime type="a">3.1.2021::21:36:41</weakCGTime>
+			<_modifiedTime type="a">3.1.2021::6:29:38</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::20:6:46</weakCGTime>
 			<strongCGTime type="a">3.1.2021::20:4:24</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4266,9 +4227,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 8c1e4a81-6224-4bbf-bb8d-4147d6a1b8ef</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsMatricula</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::20:9:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::20:9:43</_modifiedTime>
+			<_name type="a">itsCE_Matricula</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:29:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:29:38</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4288,14 +4249,13 @@
 		<IClass type="e">
 			<_id type="a">GUID d9045ebb-1e49-4f81-a762-941203586f24</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Matricula</_name>
+			<_name type="a">CE_Matricula</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">.\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -4303,17 +4263,17 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.1.2021::21:36:41</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::6:50:46</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 1baf4c56-546b-45e7-aa31-74fdf147cf7b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::21:36:41</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::6:50:46</_modifiedTime>
 			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">3.1.2021::21:36:41</weakCGTime>
-			<strongCGTime type="a">3.1.2021::20:9:9</strongCGTime>
+			<weakCGTime type="a">3.1.2021::6:50:46</weakCGTime>
+			<strongCGTime type="a">3.1.2021::6:29:38</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4329,6 +4289,8 @@
 				<value>GUID 799b029a-4d2d-4d76-a34d-b0981783d242</value>
 				<value>GUID 5b3471c5-71e8-46bc-8016-ddfad51ff699</value>
 				<value>GUID 1478828e-2a8a-49d0-9be6-aaecd06b8e1e</value>
+				<value>GUID e1a98d5b-4ea8-45c5-b4d9-e18373bc1180</value>
+				<value>GUID c80028ba-57b5-4f92-b76a-5e3a5773f6f5</value>
 			</AggregatesList>
 		</IClass>
 		<IAttribute type="e">
@@ -4513,8 +4475,8 @@
 			<_id type="a">GUID 1478828e-2a8a-49d0-9be6-aaecd06b8e1e</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCC_Matricula</_name>
-			<_modifiedTimeWeak type="a">3.1.2021::20:9:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.1.2021::20:9:43</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.1.2021::6:29:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:29:38</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4531,11 +4493,68 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e1a98d5b-4ea8-45c5-b4d9-e18373bc1180</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCE_Horario</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:50:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:50:46</_modifiedTime>
+			<_multiplicity type="a">1..*</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarHorario.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::HORARIOS::RA_RegistrarHorario</_hsubsystem>
+					<_hname type="a">CE_Horario</_hname>
+					<_hid type="a">GUID 224e30fb-dbbc-40b9-a489-ddadbc7ca02f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_RegistrarHorario.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::HORARIOS::RA_RegistrarHorario</_hsubsystem>
+					<_hclass type="a">CE_Horario</_hclass>
+					<_hname type="a">itsCE_Matricula</_hname>
+					<_hid type="a">GUID 6fae1b33-7176-49bf-b564-ae37700ab052</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c80028ba-57b5-4f92-b76a-5e3a5773f6f5</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCE_Estudiante</_name>
+			<_modifiedTimeWeak type="a">3.1.2021::6:48:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::6:48:55</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerEstudiante.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ESTUDIANTE::RA_MantenerEstudiante</_hsubsystem>
+					<_hname type="a">CE_Estudiante</_hname>
+					<_hid type="a">GUID c0d23476-ba40-4330-934d-4fa8076c945a</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\RA_MantenerEstudiante.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::ESTUDIANTE::RA_MantenerEstudiante</_hsubsystem>
+					<_hclass type="a">CE_Estudiante</_hclass>
+					<_hname type="a">itsCE_Matricula</_hname>
+					<_hid type="a">GUID c1a8455f-2896-4b4d-b6cd-2fb28aa7d3fe</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
-			<size type="a">0</size>
 		</IRPYRawContainer>
 	</OslcLinks>
 
