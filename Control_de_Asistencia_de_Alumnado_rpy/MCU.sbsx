@@ -2,17 +2,16 @@
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
-	<version>110.0.1</version>
+	<version>100.840.0</version>
 	<lang>C++</lang>
-	<BuildNo>202408271326</BuildNo>
-	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	<BuildNo>9841247</BuildNo>
 	
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
 			<_id type="a">GUID b2c0b75f-fc54-4e42-ad43-79559e5e32bb</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:50:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::12:57:10</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,9 +19,9 @@
 					<_hid type="a">GUID 13dd1b85-97da-46ab-9d64-ab442a68a2f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.1.2021::20:6:13</_modifiedTime>
+			<_modifiedTime type="a">3.2.2021::13:38:55</_modifiedTime>
 			<_lastID type="a">60</_lastID>
-			<weakCGTime type="a">1.1.2021::5:51:13</weakCGTime>
+			<weakCGTime type="a">3.2.2021::12:57:10</weakCGTime>
 			<strongCGTime type="a">7.28.2021::6:59:58</strongCGTime>
 			<_defaultComposite type="s">GUID cf893137-9c69-4486-916b-7e1adca94f4c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -64,14 +63,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">4</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,53,142</_Value>
@@ -122,6 +124,7 @@
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Font</_Name>
 													<_Value type="a">Tahoma</_Value>
@@ -154,6 +157,7 @@
 										<_Name type="a">Depends</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">5</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Font</_Name>
 													<_Value type="a">Tahoma</_Value>
@@ -192,6 +196,7 @@
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">7</size>
 												<IProperty type="e">
 													<_Name type="a">DefaultSize</_Name>
 													<_Value type="a">0,0,140,65</_Value>
@@ -246,10 +251,12 @@
 							<_Name type="a">UseCaseGe</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">ShowSourceRole</_Name>
 													<_Value type="a">False</_Value>
@@ -435,10 +442,12 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Attrs>
 			<Operations type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</Operations>
 		</CGIClass>
@@ -447,14 +456,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -485,10 +497,12 @@
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -560,14 +574,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -657,14 +674,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -742,14 +762,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -827,14 +850,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -912,14 +938,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -997,14 +1026,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -1082,14 +1114,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -1179,14 +1214,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">4</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -1276,14 +1314,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -1476,14 +1517,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -1514,10 +1558,12 @@
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -1589,14 +1635,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -1627,10 +1676,12 @@
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -1702,14 +1753,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -1902,14 +1956,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Association</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -2273,14 +2330,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -2364,14 +2424,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -2455,14 +2518,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -2546,14 +2612,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -2637,14 +2706,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -2728,14 +2800,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -3503,14 +3578,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">2</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -3541,10 +3619,12 @@
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Graphics</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">FitBoxToItsTextuals</_Name>
 													<_Value type="a">False</_Value>
@@ -3616,14 +3696,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -4220,14 +4303,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">3</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
 													<_Value type="a">255,255,255</_Value>
@@ -4482,14 +4568,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -4856,14 +4945,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -4994,14 +5086,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">Actor</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size@Label.Name</_Name>
 													<_Value type="a">10</_Value>
@@ -5073,14 +5168,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -5382,14 +5480,17 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<size type="a">1</size>
 						<IPropertySubject type="e">
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
+									<size type="a">1</size>
 									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
+												<size type="a">1</size>
 												<IProperty type="e">
 													<_Name type="a">Font.Size</_Name>
 													<_Value type="a">10</_Value>
@@ -5835,6 +5936,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -5848,6 +5950,7 @@
 			<_name type="a">Buscar Horarios</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -5919,6 +6022,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 		</IUseCase>
@@ -5946,6 +6050,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -5998,6 +6103,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6050,6 +6156,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6103,6 +6210,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6116,6 +6224,7 @@
 			<_name type="a">Buscar Estudiante</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6187,6 +6296,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 		</IUseCase>
@@ -6214,6 +6324,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 		</IUseCase>
@@ -6241,6 +6352,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6293,6 +6405,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6345,6 +6458,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6401,6 +6515,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6454,6 +6569,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6467,6 +6583,7 @@
 			<_name type="a">Buscar Curso</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6539,6 +6656,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6552,6 +6670,7 @@
 			<_name type="a">Buscar Estudiante</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6623,6 +6742,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 		</IUseCase>
@@ -6651,6 +6771,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6666,6 +6787,7 @@
 			<_name type="a">Buscar Profesor</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6697,6 +6819,7 @@
 			<_name type="a">Buscar Curso</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6728,6 +6851,7 @@
 			<_name type="a">Buscar Secci%F3n</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6800,6 +6924,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6852,6 +6977,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 		</IUseCase>
@@ -6880,6 +7006,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
@@ -6894,6 +7021,7 @@
 			<_name type="a">Buscar Horarios</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -6925,6 +7053,7 @@
 			<_name type="a">Buscar Estudiante</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
@@ -7237,7 +7366,7 @@
 			<_id type="a">GUID 1a9edc02-3701-4a7e-8ca1-e915dc0f5f67</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Personal Administrativo</_name>
-			<_modifiedTimeWeak type="a">1.1.2021::5:50:44</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::13:15:31</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
@@ -7247,8 +7376,8 @@
 					<_hid type="a">GUID 68ebb883-5159-4cdc-a826-e808290cd610</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2021::5:50:44</_modifiedTime>
-			<weakCGTime type="a">1.1.2021::5:50:44</weakCGTime>
+			<_modifiedTime type="a">3.2.2021::13:15:31</_modifiedTime>
+			<weakCGTime type="a">3.2.2021::13:15:31</weakCGTime>
 			<strongCGTime type="a">1.1.2021::5:51:13</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -7273,6 +7402,9 @@
 				<value>GUID ab0910de-265c-46f1-bcb5-bbb7e1cf911a</value>
 				<value>GUID c6b9320f-705d-420d-9317-35c00ebb68ac</value>
 				<value>GUID 4ef566c0-64af-4788-9235-6a210456127a</value>
+				<value>GUID b8a62731-76ef-4164-a4a5-298a1350ec7e</value>
+				<value>GUID 5c271b1c-ef4a-4ded-91e4-d3bf94379c75</value>
+				<value>GUID d129b05b-5785-455d-a689-f8749b3bc385</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -7733,6 +7865,75 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b8a62731-76ef-4164-a4a5-298a1350ec7e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMantener_curso</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::13:1:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::13:1:37</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RD_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::RD_MantenerCurso</_hsubsystem>
+					<_hname type="a">mantener_curso</_hname>
+					<_hid type="a">GUID 99bac73a-260a-48b0-bf82-3870407718db</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5c271b1c-ef4a-4ded-91e4-d3bf94379c75</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuprincipal_jsp_cliente</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::13:2:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::13:2:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RD_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::RD_MantenerCurso</_hsubsystem>
+					<_hname type="a">Menuprincipal_jsp_cliente</_hname>
+					<_hid type="a">GUID 4f6c5909-ee7d-450e-ada0-2b24c2d37161</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d129b05b-5785-455d-a689-f8749b3bc385</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCursofrm</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::13:15:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2021::13:15:31</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RD_MantenerCurso.sbsx</_hfilename>
+					<_hsubsystem type="a">MD::RD_MantenerCurso</_hsubsystem>
+					<_hname type="a">Cursofrm</_hname>
+					<_hid type="a">GUID ef79d8dc-b94b-4a0d-b865-e90fe77b010d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 3ac1fe32-2c16-4d30-a5b4-301ec7952ba4</_id>
 			<_myState type="a">8192</_myState>
@@ -7893,6 +8094,7 @@
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
+			<size type="a">0</size>
 		</IRPYRawContainer>
 	</OslcLinks>
 
